@@ -6,12 +6,12 @@ var website_name = "RA2 TOP UP";
 // =======================================================
 // TELEGRAM CHANNEL LINK
 // =======================================================
-var telegram_channel_link = "telegram channel link";
+var telegram_channel_link = "https://t.me/ra2topup";
 
 // =======================================================
 // TELEGRAM GROUP LINK
 // =======================================================
-var telegram_group_link = "telegram group link";
+var telegram_group_link = "";
 
 // =======================================================
 // YOUTUBE CHANNEL LINK
