@@ -11,7 +11,7 @@ var telegram_channel_link = "https://t.me/ra2topup";
 // =======================================================
 // TELEGRAM GROUP LINK
 // =======================================================
-var telegram_group_link = "";
+var telegram_group_link = "https://t.me/+CyIcTiuuiOY4NDQ1";
 
 // =======================================================
 // YOUTUBE CHANNEL LINK
