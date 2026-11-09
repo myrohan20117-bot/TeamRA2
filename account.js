@@ -1,22 +1,22 @@
 // =======================================================
 // WEBSITE NAME (NICKNAME)
 // =======================================================
-var website_name = "RA2 TOP UP";
+var website_name = "YASIN";
 
 // =======================================================
 // TELEGRAM CHANNEL LINK
 // =======================================================
-var telegram_channel_link = "https://t.me/ra2topup";
+var telegram_channel_link = "telegram channel link";
 
 // =======================================================
 // TELEGRAM GROUP LINK
 // =======================================================
-var telegram_group_link = "https://t.me/+CyIcTiuuiOY4NDQ1";
+var telegram_group_link = "telegram group link";
 
 // =======================================================
 // YOUTUBE CHANNEL LINK
 // =======================================================
-var youtube_channel_link = "https://www.youtube.com/@Team_RA2";
+var youtube_channel_link = "YouTube channel link";
 
 // =======================================================
 // NOTIFICATION TEXT
